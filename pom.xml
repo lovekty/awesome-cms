@@ -26,7 +26,7 @@
         <dependencies>
             <dependency>
                 <groupId>me.tony.awesome.cms</groupId>
-                <artifactId>awesome-cms-api</artifactId>
+                <artifactId>awesome-cms-base</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
         </dependencies>

@@ -12,7 +12,7 @@
     <artifactId>awesome-cms-parent</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>awesome-cms-api</module>
+        <module>awesome-cms-base</module>
         <module>awesome-cms-service-provider</module>
     </modules>
 

@@ -1,4 +1,4 @@
-package me.tony.awesome.cms.api.model.prototype;
+package me.tony.awesome.cms.base.model.prototype;
 
 import lombok.Data;
 
